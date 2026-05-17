@@ -23,3 +23,8 @@ Structured solutions to LeetCode problems with explanations, approaches, and com
 - Backtracking
 
 ## Repository Structure
+Arrays/
+Graphs/
+Trees/
+DP/
+Greedy/
